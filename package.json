@@ -1,0 +1,13 @@
+{
+  "name": "binarysearch-ratnakar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Binary Search npm"],
+  "author": "Ratnakar Giri",
+  "license": "ISC",
+  "description": ""
+}
